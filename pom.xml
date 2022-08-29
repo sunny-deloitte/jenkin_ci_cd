@@ -32,6 +32,7 @@
 				<configuration>
 				<cloudHubDeployment>
 				<username>raikrsunny</username>
+				<password>Sunny@1024</password>
 				<environment>sandbox</environment>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
